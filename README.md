@@ -11,8 +11,8 @@ It requires the packages `reshape2`, `ggplot2`, `RColorBrewer`, `cowplot`, `scal
 
 ## Files
 
-* Fig-4BCD.R: Linear population structure -- how do changes in the mutant's birth rate, death probability, or self-renewal probability affect the clonal burden.
-* Fig-4F.R: Branched population structure -- how do changes in the mutant's differentiation bias affect the clonal burden.
-* Fig-4G.R: Replicating experimental results -- combining multiple parameter changes to replicate the clonal burden.
-* Fig-S6.R: Replicating specific experimental results.
-* doc.Rmd: A notebook written in R-markdown, which forms the supplemental material of this manuscript.
+* [Fig-4BCD.R](https://github.com/ashcroftp/MPN-low-JAK2/blob/master/Fig-4BCD.R): Linear population structure -- how do changes in the mutant's birth rate, death probability, or self-renewal probability affect the clonal burden.
+* [Fig-4F.R](https://github.com/ashcroftp/MPN-low-JAK2/blob/master/Fig-4F.R): Branched population structure -- how do changes in the mutant's differentiation bias affect the clonal burden.
+* [Fig-4G.R](https://github.com/ashcroftp/MPN-low-JAK2/blob/master/Fig-4G.R): Replicating experimental results -- combining multiple parameter changes to replicate the clonal burden.
+* [Fig-S6.R](https://github.com/ashcroftp/MPN-low-JAK2/blob/master/Fig-S6.R): Replicating specific experimental results.
+* [doc.Rmd](https://github.com/ashcroftp/MPN-low-JAK2/blob/master/Doc/doc.Rmd): A notebook written in R-markdown, which forms the supplemental material of this manuscript.
